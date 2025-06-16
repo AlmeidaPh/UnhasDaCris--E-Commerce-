@@ -2,7 +2,7 @@
 
 ![Logo Unhas Da Cris](imgs/header/Logo.png)
 
-Um e-commerce completo para produtos de manicure e cuidados com as unhas, desenvolvido como projeto acadêmico.
+  Um e-commerce completo para produtos de manicure e cuidados com as unhas, desenvolvido como projeto acadêmico.
 
 ## 📌 Funcionalidades Principais
 
@@ -43,6 +43,6 @@ Um e-commerce completo para produtos de manicure e cuidados com as unhas, desenv
 - **Performance**: Lazy loading em imagens
 - **Acessibilidade**: Atributos ARIA e foco keyboard
 
-## 📜 Licença
+## 📜 Observação
 
-Livre para uso educacional. Proibida comercialização sem autorização.
+Projeto feito para finalidades educacionais.
