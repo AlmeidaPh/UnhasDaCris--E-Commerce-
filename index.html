@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Loja de produtos para unhas - Unhas Da Cris">
+    <title>Unhas Da Cris - IWII</title>
+    <link rel="icon" href="/imgs/header/Logo.png">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header>
+        <img src="imgs/header/Logo.png" alt="Logo Unhas Da Cris" loading="lazy">
+        <h1>Unhas Da Cris</h1>
+        <select id="seletorTema" class="seletor-tema" aria-label="Seletor de temas">
+            <option value="0">Tema Claro</option>
+            <option value="1">Tema Escuro</option>
+            <option value="2">Tema Rosa</option>
+        </select>
+    </header>
+
+    <div class="carrossel-container">
+        <div class="carrossel">
+            <div class="slide">
+                <img src="imgs/banners/banner1.png" alt="Promoção de produtos para unhas" loading="lazy">
+            </div>
+            <div class="slide">
+                <img src="imgs/banners/banner2.png" alt="Kits para alongamento de unhas" loading="lazy">
+            </div>
+        </div>
+        <button class="carrossel-controle anterior" aria-label="Slide anterior">‹</button>
+        <button class="carrossel-controle proximo" aria-label="Próximo slide">›</button>
+    </div>
+
+        <div class="info-bar">
+        <div class="info-item">
+            <img src="imgs/icons/frete.svg" alt="Ícone frete" class="info-icon" loading="lazy">
+            <span>Frete grátis acima de R$ 199,99</span>
+        </div>
+        <div class="info-item">
+            <img src="imgs/icons/cartao.svg" alt="Ícone parcelamento" class="info-icon" loading="lazy">
+            <span>Parcelamento em até 5x sem juros</span>
+        </div>
+        <div class="info-item">
+            <img src="imgs/icons/devolucao.svg" alt="Ícone devolução" class="info-icon" loading="lazy">
+            <span>Devolução grátis em até 7 dias</span>
+        </div>
+        <div class="info-item">
+            <img src="imgs/icons/seguranca.svg" alt="Ícone segurança" class="info-icon" loading="lazy">
+            <span>Site seguro</span>
+        </div>
+    </div>
+
+    <nav>
+        <ul class="categorias"></ul>
+    </nav>
+
+    <main>
+        <section class="produtos" aria-label="Lista de produtos"></section>
+        <aside class="carrinho" aria-label="Carrinho de compras">
+            <h2>Carrinho</h2>
+            <div class="itensCarrinho"></div>
+            <div class="total">Total: R$ 0,00</div>
+            <button class="finalizarPedido">Finalizar Pedido</button>
+        </aside>
+    </main>
+
+    <footer>
+        <p>© Projeto criado para fins acadêmicos</p>
+    </footer>
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="js/carrossel.js"></script> 
+    <script src="js/produtos.js"></script>
+    <script src="js/script.js"></script>
+</body>
+</html>

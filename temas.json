@@ -1,0 +1,40 @@
+{
+    "temas": [
+        {
+            "nome": "Padrão",
+            "variaveis": {
+                "--bege-rosado": "#D9C9BA",
+                "--branco-rosado": "#F2E9E4",
+                "--marrom-escuro": "#8C4D3F",
+                "--marrom-claro": "#BF726B",
+                "--rosa-poeira": "#D99B96",
+                "--card-bg": "#FFFFFF",
+                "--card-text": "#5A3E36"
+            }
+        },
+        {
+            "nome": "Rosa",
+            "variaveis": {
+                "--bege-rosado": "#FFD6E0",
+                "--branco-rosado": "#FFF0F5",
+                "--marrom-escuro": "#C2185B",
+                "--marrom-claro": "#E91E63",
+                "--rosa-poeira": "#FF80AB",
+                "--card-bg": "#FFF0F5",
+                "--card-text": "#5A3E36"
+            }
+        },
+        {
+            "nome": "Escuro",
+            "variaveis": {
+                "--bege-rosado": "#3A2E28",
+                "--branco-rosado": "#1A1614",
+                "--marrom-escuro": "#D9C9BA",
+                "--marrom-claro": "#8C4D3F",
+                "--rosa-poeira": "#BF726B",
+                "--card-bg": "#2E2420",
+                "--card-text": "#E0D5CD"
+            }
+        }
+    ]
+}
