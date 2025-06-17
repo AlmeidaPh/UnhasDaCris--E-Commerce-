@@ -20,7 +20,7 @@
 
 - HTML5 semântico
 - CSS3 com Variáveis
-- JavaScript Moderno (ES6+)
+- JavaScript
 - jQuery (apenas para o carrossel)
 - JSON para configurações
 
