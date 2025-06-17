@@ -24,25 +24,6 @@
 - jQuery (apenas para o carrossel)
 - JSON para configurações
 
-
-## 🚀 Como Usar
-
-1. Baixe todos os arquivos
-2. Abra `index.html` no navegador
-3. Navegue pelos produtos
-4. Teste as funcionalidades:
-   - Adicione itens ao carrinho
-   - Mude os temas
-   - Filtre por categorias
-
-## ✨ Destaques Técnicos
-
-- **Organização CSS**: Uso de variáveis para temas
-- **JavaScript Modular**: Classes separadas para cada funcionalidade
-- **Persistência**: Cookies para carrinho e tema selecionado
-- **Performance**: Lazy loading em imagens
-- **Acessibilidade**: Atributos ARIA e foco keyboard
-
 ## 📜 Observação
 
 Projeto feito para finalidades educacionais.
